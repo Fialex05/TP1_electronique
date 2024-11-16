@@ -1,5 +1,5 @@
 # TP1_electronique
-Contient les codes arduino des exercices 1 à 6:
+Contient les codes arduino des exercices 1 à 6:\n
     exercice 1 : Conception d'un chenillard
     exercice 2 : Circuits logiques
     exercice 3 : Affichage de l'horloge interne
